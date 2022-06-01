@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-uploaddocuments-dev-110503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::662774497813:role/amplify-uploaddocuments-dev-110503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::662774497813:role/amplify-uploaddocuments-dev-110503-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-uploaddocuments-dev-110503-deployment",
+      "UnauthRoleName": "amplify-uploaddocuments-dev-110503-unauthRole",
+      "StackName": "amplify-uploaddocuments-dev-110503",
+      "StackId": "arn:aws:cloudformation:us-east-1:662774497813:stack/amplify-uploaddocuments-dev-110503/6ff36d00-e0fb-11ec-bd20-0aa13bfda87b",
+      "AmplifyAppId": "d2slt841zd8ce8"
+    },
+    "categories": {
+      "auth": {
+        "uploaddocuments4894844b": {}
+      }
+    }
+  }
+}
